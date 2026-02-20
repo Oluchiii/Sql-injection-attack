@@ -14,6 +14,7 @@ Reflected Cross-Site Scripting (XSS)
 
 Traffic interception and manipulation using Burp Suite
 
+
 🔍 Part 1: SQL Injection – Oracle Database Enumeration
 🛠 Tools Used
 
@@ -35,6 +36,7 @@ Enabled Intercept ON
 Launched Burp’s embedded browser
 
 Navigated to the lab URL
+
 
 🔎 Step 2: Determining Number of Columns
 
@@ -86,6 +88,7 @@ Retrieved usernames and passwords
 
 Successfully authenticated as Administrator
 
+
 💥 Part 2: Cross-Site Scripting (XSS)
 🎯 Objective
 
@@ -113,6 +116,7 @@ Successfully executed JavaScript
 
 Confirmed presence of a reflected XSS vulnerability
 
+
 🧠 Key Learning Outcomes
 
 Oracle database enumeration using UNION-based SQL injection
@@ -126,6 +130,7 @@ Attribute-context XSS payload crafting
 Practical vulnerability testing using Burp Suite
 
 Translating technical findings into governance and compliance risks
+
 
 🏛 Governance & Compliance Impact
 
@@ -149,15 +154,18 @@ Financial penalties
 
 Reputational damage
 
+
 ⚠️ Disclaimer
 
 This lab was conducted in a controlled environment provided by PortSwigger Web Security Academy strictly for educational and ethical security testing purposes.
 
 These techniques must only be performed on systems where explicit authorization has been granted.
 
+
 👩🏽‍💻 Author
 
 Oluchi Blessing Uwakwe
+
 
 🎯 Focus Area
 
