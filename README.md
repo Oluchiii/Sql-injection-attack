@@ -1,6 +1,8 @@
 📌 Overview
 
-This lab demonstrates hands-on web application security testing conducted in a controlled learning environment. The objective was to identify, exploit, and analyze vulnerabilities from both a technical security and Governance, Risk & Compliance (GRC) perspective.
+This lab demonstrates hands-on web application security testing conducted in a controlled learning environment.
+
+The objective was to identify, exploit, and analyze vulnerabilities from both a technical security and Governance, Risk & Compliance (GRC) perspective.
 
 The assessment covered:
 
@@ -152,7 +154,6 @@ Reputational damage
 This lab was conducted in a controlled environment provided by PortSwigger Web Security Academy strictly for educational and ethical security testing purposes.
 
 These techniques must only be performed on systems where explicit authorization has been granted.
-
 
 👩🏽‍💻 Author
 
